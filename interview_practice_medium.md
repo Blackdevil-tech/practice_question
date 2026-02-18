@@ -759,7 +759,6 @@ Treat it like base-26 number conversion.
 | 14 | Spiral Order Traversal | 2D Array | ☐ | ☐ |
 | 15 | Diagonal Sum | 2D Array | ☐ | ☐ |
 | 16 | Set Matrix Zeroes | 2D Array | ☐ | ☐ |
-| 17 | Count Islands | DFS/BFS | ☐ | ☐ |
 | 18 | Longest Substring No Repeat | Sliding Window | ☐ | ☐ |
 | 19 | Longest Palindromic Substring | Expand Center | ☐ | ☐ |
 | 20 | Group Anagrams | HashMap | ☐ | ☐ |
@@ -772,6 +771,5 @@ Treat it like base-26 number conversion.
 | 27 | LCM of Two Numbers | Math/GCD | ☐ | ☐ |
 | 28 | Perfect Number | Math | ☐ | ☐ |
 | 29 | Excel Column Number | Base Conversion | ☐ | ☐ |
-| 30 | Nth Fibonacci (Memoized) | DP/Memoization | ☐ | ☐ |
 
 ---
